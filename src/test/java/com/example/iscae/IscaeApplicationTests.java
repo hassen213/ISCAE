@@ -1,0 +1,13 @@
+package com.example.iscae;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class IscaeApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
